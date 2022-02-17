@@ -1,3 +1,3 @@
 # Tutorial
 
-this is me  learning how things work around here.
+This is me learning how things work around here.
